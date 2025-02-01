@@ -47,9 +47,6 @@ export default function Home() {
       <div>
         <About />
       </div>
-
-      {/* Footer */}
-      <Footer />
     </div>
   );
 }
